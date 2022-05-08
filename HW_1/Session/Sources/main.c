@@ -1,5 +1,5 @@
-#include "E:\embedded\HW_1\Session\Headers\Calc.h"
-#include "E:\embedded\HW_1\Session\Headers\convernt.h"
+#include "E:\embedded\HW_1\Session\Headers\cal.h"
+#include "E:\embedded\HW_1\Session\Headers\convert.h"
 
 #include "stdio.h"
 #include <math.h>
